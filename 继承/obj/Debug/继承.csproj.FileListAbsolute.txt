@@ -1,0 +1,6 @@
+D:\code\visual studio\CSharp_Primary\继承\bin\Debug\继承.exe.config
+D:\code\visual studio\CSharp_Primary\继承\bin\Debug\继承.exe
+D:\code\visual studio\CSharp_Primary\继承\bin\Debug\继承.pdb
+D:\code\visual studio\CSharp_Primary\继承\obj\Debug\继承.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Primary\继承\obj\Debug\继承.exe
+D:\code\visual studio\CSharp_Primary\继承\obj\Debug\继承.pdb

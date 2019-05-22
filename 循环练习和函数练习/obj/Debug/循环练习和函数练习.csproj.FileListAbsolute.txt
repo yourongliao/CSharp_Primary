@@ -1,0 +1,6 @@
+D:\code\visual studio\CSharp_Primary\循环练习和函数练习\bin\Debug\循环练习和函数练习.exe.config
+D:\code\visual studio\CSharp_Primary\循环练习和函数练习\bin\Debug\循环练习和函数练习.exe
+D:\code\visual studio\CSharp_Primary\循环练习和函数练习\bin\Debug\循环练习和函数练习.pdb
+D:\code\visual studio\CSharp_Primary\循环练习和函数练习\obj\Debug\循环练习和函数练习.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Primary\循环练习和函数练习\obj\Debug\循环练习和函数练习.exe
+D:\code\visual studio\CSharp_Primary\循环练习和函数练习\obj\Debug\循环练习和函数练习.pdb

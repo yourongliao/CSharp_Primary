@@ -1,0 +1,7 @@
+D:\code\visual studio\CSharp_Primary\@\bin\Debug\_.exe.config
+D:\code\visual studio\CSharp_Primary\@\bin\Debug\_.exe
+D:\code\visual studio\CSharp_Primary\@\bin\Debug\_.pdb
+D:\code\visual studio\CSharp_Primary\@\obj\Debug\@.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Primary\@\obj\Debug\_.exe
+D:\code\visual studio\CSharp_Primary\@\obj\Debug\_.pdb
+D:\code\visual studio\CSharp_Primary\@\obj\Debug\@.csprojAssemblyReference.cache

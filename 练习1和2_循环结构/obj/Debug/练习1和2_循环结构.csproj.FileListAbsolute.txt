@@ -1,0 +1,6 @@
+D:\code\visual studio\CSharp_Primary\练习1和2_循环结构\bin\Debug\练习1和2_循环结构.exe.config
+D:\code\visual studio\CSharp_Primary\练习1和2_循环结构\bin\Debug\练习1和2_循环结构.exe
+D:\code\visual studio\CSharp_Primary\练习1和2_循环结构\bin\Debug\练习1和2_循环结构.pdb
+D:\code\visual studio\CSharp_Primary\练习1和2_循环结构\obj\Debug\练习1和2_循环结构.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Primary\练习1和2_循环结构\obj\Debug\练习1和2_循环结构.exe
+D:\code\visual studio\CSharp_Primary\练习1和2_循环结构\obj\Debug\练习1和2_循环结构.pdb

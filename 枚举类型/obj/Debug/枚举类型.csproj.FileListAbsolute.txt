@@ -1,0 +1,7 @@
+D:\code\visual studio\CSharp_Primary\枚举类型\bin\Debug\枚举类型.exe.config
+D:\code\visual studio\CSharp_Primary\枚举类型\bin\Debug\枚举类型.exe
+D:\code\visual studio\CSharp_Primary\枚举类型\bin\Debug\枚举类型.pdb
+D:\code\visual studio\CSharp_Primary\枚举类型\obj\Debug\枚举类型.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Primary\枚举类型\obj\Debug\枚举类型.exe
+D:\code\visual studio\CSharp_Primary\枚举类型\obj\Debug\枚举类型.pdb
+D:\code\visual studio\CSharp_Primary\枚举类型\obj\Debug\枚举类型.csprojAssemblyReference.cache

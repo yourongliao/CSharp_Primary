@@ -1,0 +1,7 @@
+D:\code\visual studio\CSharp_Primary\值类型和引用类型\bin\Debug\值类型和引用类型.exe.config
+D:\code\visual studio\CSharp_Primary\值类型和引用类型\bin\Debug\值类型和引用类型.exe
+D:\code\visual studio\CSharp_Primary\值类型和引用类型\bin\Debug\值类型和引用类型.pdb
+D:\code\visual studio\CSharp_Primary\值类型和引用类型\obj\Debug\值类型和引用类型.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Primary\值类型和引用类型\obj\Debug\值类型和引用类型.exe
+D:\code\visual studio\CSharp_Primary\值类型和引用类型\obj\Debug\值类型和引用类型.pdb
+D:\code\visual studio\CSharp_Primary\值类型和引用类型\obj\Debug\值类型和引用类型.csprojAssemblyReference.cache

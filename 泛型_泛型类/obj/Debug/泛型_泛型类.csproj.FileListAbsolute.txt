@@ -1,0 +1,6 @@
+D:\code\visual studio\CSharp_Primary\泛型_泛型类\bin\Debug\泛型_泛型类.exe.config
+D:\code\visual studio\CSharp_Primary\泛型_泛型类\bin\Debug\泛型_泛型类.exe
+D:\code\visual studio\CSharp_Primary\泛型_泛型类\bin\Debug\泛型_泛型类.pdb
+D:\code\visual studio\CSharp_Primary\泛型_泛型类\obj\Debug\泛型_泛型类.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Primary\泛型_泛型类\obj\Debug\泛型_泛型类.exe
+D:\code\visual studio\CSharp_Primary\泛型_泛型类\obj\Debug\泛型_泛型类.pdb

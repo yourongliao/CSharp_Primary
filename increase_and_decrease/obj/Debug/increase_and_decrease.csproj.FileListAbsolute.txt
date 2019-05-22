@@ -1,0 +1,7 @@
+D:\code\visual studio\CSharp_Primary\increase_and_decrease\bin\Debug\increase_and_decrease.exe.config
+D:\code\visual studio\CSharp_Primary\increase_and_decrease\bin\Debug\increase_and_decrease.exe
+D:\code\visual studio\CSharp_Primary\increase_and_decrease\bin\Debug\increase_and_decrease.pdb
+D:\code\visual studio\CSharp_Primary\increase_and_decrease\obj\Debug\increase_and_decrease.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Primary\increase_and_decrease\obj\Debug\increase_and_decrease.exe
+D:\code\visual studio\CSharp_Primary\increase_and_decrease\obj\Debug\increase_and_decrease.pdb
+D:\code\visual studio\CSharp_Primary\increase_and_decrease\obj\Debug\increase_and_decrease.csprojAssemblyReference.cache

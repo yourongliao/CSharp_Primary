@@ -1,0 +1,7 @@
+D:\code\visual studio\CSharp_Primary\hello_World\bin\Debug\hello_World.exe.config
+D:\code\visual studio\CSharp_Primary\hello_World\bin\Debug\hello_World.exe
+D:\code\visual studio\CSharp_Primary\hello_World\bin\Debug\hello_World.pdb
+D:\code\visual studio\CSharp_Primary\hello_World\obj\Debug\hello_World.csprojAssemblyReference.cache
+D:\code\visual studio\CSharp_Primary\hello_World\obj\Debug\hello_World.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Primary\hello_World\obj\Debug\hello_World.exe
+D:\code\visual studio\CSharp_Primary\hello_World\obj\Debug\hello_World.pdb

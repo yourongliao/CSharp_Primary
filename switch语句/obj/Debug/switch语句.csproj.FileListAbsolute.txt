@@ -1,0 +1,7 @@
+D:\code\visual studio\CSharp_Primary\switch语句\bin\Debug\switch语句.exe.config
+D:\code\visual studio\CSharp_Primary\switch语句\bin\Debug\switch语句.exe
+D:\code\visual studio\CSharp_Primary\switch语句\bin\Debug\switch语句.pdb
+D:\code\visual studio\CSharp_Primary\switch语句\obj\Debug\switch语句.csprojAssemblyReference.cache
+D:\code\visual studio\CSharp_Primary\switch语句\obj\Debug\switch语句.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Primary\switch语句\obj\Debug\switch语句.exe
+D:\code\visual studio\CSharp_Primary\switch语句\obj\Debug\switch语句.pdb

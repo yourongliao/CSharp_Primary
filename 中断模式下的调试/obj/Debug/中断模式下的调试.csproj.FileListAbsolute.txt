@@ -1,0 +1,7 @@
+D:\code\visual studio\CSharp_Primary\中断模式下的调试\bin\Debug\中断模式下的调试.exe.config
+D:\code\visual studio\CSharp_Primary\中断模式下的调试\bin\Debug\中断模式下的调试.exe
+D:\code\visual studio\CSharp_Primary\中断模式下的调试\bin\Debug\中断模式下的调试.pdb
+D:\code\visual studio\CSharp_Primary\中断模式下的调试\obj\Debug\中断模式下的调试.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Primary\中断模式下的调试\obj\Debug\中断模式下的调试.exe
+D:\code\visual studio\CSharp_Primary\中断模式下的调试\obj\Debug\中断模式下的调试.pdb
+D:\code\visual studio\CSharp_Primary\中断模式下的调试\obj\Debug\中断模式下的调试.csprojAssemblyReference.cache

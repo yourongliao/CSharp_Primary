@@ -1,0 +1,7 @@
+D:\code\visual studio\CSharp_Primary\练习12和13_循环练习\bin\Debug\练习12和13_循环练习.exe.config
+D:\code\visual studio\CSharp_Primary\练习12和13_循环练习\bin\Debug\练习12和13_循环练习.exe
+D:\code\visual studio\CSharp_Primary\练习12和13_循环练习\bin\Debug\练习12和13_循环练习.pdb
+D:\code\visual studio\CSharp_Primary\练习12和13_循环练习\obj\Debug\练习12和13_循环练习.csprojAssemblyReference.cache
+D:\code\visual studio\CSharp_Primary\练习12和13_循环练习\obj\Debug\练习12和13_循环练习.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Primary\练习12和13_循环练习\obj\Debug\练习12和13_循环练习.exe
+D:\code\visual studio\CSharp_Primary\练习12和13_循环练习\obj\Debug\练习12和13_循环练习.pdb

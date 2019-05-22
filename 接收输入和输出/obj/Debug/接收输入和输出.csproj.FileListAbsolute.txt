@@ -1,0 +1,6 @@
+D:\code\visual studio\CSharp_Primary\接收输入和输出\bin\Debug\接收输入和输出.exe.config
+D:\code\visual studio\CSharp_Primary\接收输入和输出\bin\Debug\接收输入和输出.exe
+D:\code\visual studio\CSharp_Primary\接收输入和输出\bin\Debug\接收输入和输出.pdb
+D:\code\visual studio\CSharp_Primary\接收输入和输出\obj\Debug\接收输入和输出.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Primary\接收输入和输出\obj\Debug\接收输入和输出.exe
+D:\code\visual studio\CSharp_Primary\接收输入和输出\obj\Debug\接收输入和输出.pdb

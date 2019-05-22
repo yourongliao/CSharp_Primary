@@ -1,0 +1,7 @@
+D:\code\visual studio\CSharp_Primary\函数的定义\bin\Debug\函数的定义.exe.config
+D:\code\visual studio\CSharp_Primary\函数的定义\bin\Debug\函数的定义.exe
+D:\code\visual studio\CSharp_Primary\函数的定义\bin\Debug\函数的定义.pdb
+D:\code\visual studio\CSharp_Primary\函数的定义\obj\Debug\函数的定义.csprojAssemblyReference.cache
+D:\code\visual studio\CSharp_Primary\函数的定义\obj\Debug\函数的定义.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Primary\函数的定义\obj\Debug\函数的定义.exe
+D:\code\visual studio\CSharp_Primary\函数的定义\obj\Debug\函数的定义.pdb

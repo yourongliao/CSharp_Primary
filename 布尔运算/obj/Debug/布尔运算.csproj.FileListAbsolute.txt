@@ -1,0 +1,6 @@
+D:\code\visual studio\CSharp_Primary\布尔运算\bin\Debug\布尔运算.exe.config
+D:\code\visual studio\CSharp_Primary\布尔运算\bin\Debug\布尔运算.exe
+D:\code\visual studio\CSharp_Primary\布尔运算\bin\Debug\布尔运算.pdb
+D:\code\visual studio\CSharp_Primary\布尔运算\obj\Debug\布尔运算.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Primary\布尔运算\obj\Debug\布尔运算.exe
+D:\code\visual studio\CSharp_Primary\布尔运算\obj\Debug\布尔运算.pdb

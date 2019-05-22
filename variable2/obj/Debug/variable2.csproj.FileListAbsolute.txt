@@ -1,0 +1,6 @@
+D:\code\visual studio\CSharp_Primary\variable2\bin\Debug\variable2.exe.config
+D:\code\visual studio\CSharp_Primary\variable2\bin\Debug\variable2.exe
+D:\code\visual studio\CSharp_Primary\variable2\bin\Debug\variable2.pdb
+D:\code\visual studio\CSharp_Primary\variable2\obj\Debug\variable2.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Primary\variable2\obj\Debug\variable2.exe
+D:\code\visual studio\CSharp_Primary\variable2\obj\Debug\variable2.pdb

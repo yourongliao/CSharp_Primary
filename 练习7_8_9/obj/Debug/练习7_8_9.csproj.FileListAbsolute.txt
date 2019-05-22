@@ -1,0 +1,6 @@
+D:\code\visual studio\CSharp_Primary\练习7_8_9\bin\Debug\练习7_8_9.exe.config
+D:\code\visual studio\CSharp_Primary\练习7_8_9\bin\Debug\练习7_8_9.exe
+D:\code\visual studio\CSharp_Primary\练习7_8_9\bin\Debug\练习7_8_9.pdb
+D:\code\visual studio\CSharp_Primary\练习7_8_9\obj\Debug\练习7_8_9.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Primary\练习7_8_9\obj\Debug\练习7_8_9.exe
+D:\code\visual studio\CSharp_Primary\练习7_8_9\obj\Debug\练习7_8_9.pdb

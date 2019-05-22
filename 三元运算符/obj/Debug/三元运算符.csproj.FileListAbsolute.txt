@@ -1,0 +1,7 @@
+D:\code\visual studio\CSharp_Primary\三元运算符\bin\Debug\三元运算符.exe.config
+D:\code\visual studio\CSharp_Primary\三元运算符\bin\Debug\三元运算符.exe
+D:\code\visual studio\CSharp_Primary\三元运算符\bin\Debug\三元运算符.pdb
+D:\code\visual studio\CSharp_Primary\三元运算符\obj\Debug\三元运算符.csprojAssemblyReference.cache
+D:\code\visual studio\CSharp_Primary\三元运算符\obj\Debug\三元运算符.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Primary\三元运算符\obj\Debug\三元运算符.exe
+D:\code\visual studio\CSharp_Primary\三元运算符\obj\Debug\三元运算符.pdb

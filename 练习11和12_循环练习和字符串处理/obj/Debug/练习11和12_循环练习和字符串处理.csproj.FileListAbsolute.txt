@@ -1,0 +1,7 @@
+D:\code\visual studio\CSharp_Primary\练习11和12_循环练习和字符串处理\bin\Debug\练习11和12_循环练习和字符串处理.exe.config
+D:\code\visual studio\CSharp_Primary\练习11和12_循环练习和字符串处理\bin\Debug\练习11和12_循环练习和字符串处理.exe
+D:\code\visual studio\CSharp_Primary\练习11和12_循环练习和字符串处理\bin\Debug\练习11和12_循环练习和字符串处理.pdb
+D:\code\visual studio\CSharp_Primary\练习11和12_循环练习和字符串处理\obj\Debug\练习11和12_循环练习和字符串处理.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Primary\练习11和12_循环练习和字符串处理\obj\Debug\练习11和12_循环练习和字符串处理.exe
+D:\code\visual studio\CSharp_Primary\练习11和12_循环练习和字符串处理\obj\Debug\练习11和12_循环练习和字符串处理.pdb
+D:\code\visual studio\CSharp_Primary\练习11和12_循环练习和字符串处理\obj\Debug\练习11和12_循环练习和字符串处理.csprojAssemblyReference.cache

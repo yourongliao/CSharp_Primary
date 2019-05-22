@@ -1,0 +1,7 @@
+D:\code\visual studio\CSharp_Primary\练习1和2_布尔运算符和数学运算符的练习\bin\Debug\练习1和2_布尔运算符和数学运算符的练习.exe.config
+D:\code\visual studio\CSharp_Primary\练习1和2_布尔运算符和数学运算符的练习\bin\Debug\练习1和2_布尔运算符和数学运算符的练习.exe
+D:\code\visual studio\CSharp_Primary\练习1和2_布尔运算符和数学运算符的练习\bin\Debug\练习1和2_布尔运算符和数学运算符的练习.pdb
+D:\code\visual studio\CSharp_Primary\练习1和2_布尔运算符和数学运算符的练习\obj\Debug\练习1和2_布尔运算符和数学运算符的练习.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Primary\练习1和2_布尔运算符和数学运算符的练习\obj\Debug\练习1和2_布尔运算符和数学运算符的练习.exe
+D:\code\visual studio\CSharp_Primary\练习1和2_布尔运算符和数学运算符的练习\obj\Debug\练习1和2_布尔运算符和数学运算符的练习.pdb
+D:\code\visual studio\CSharp_Primary\练习1和2_布尔运算符和数学运算符的练习\obj\Debug\练习1和2_布尔运算符和数学运算符的练习.csprojAssemblyReference.cache

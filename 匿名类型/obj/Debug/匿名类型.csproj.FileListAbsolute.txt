@@ -1,0 +1,7 @@
+D:\code\visual studio\CSharp_Primary\匿名类型\bin\Debug\匿名类型.exe.config
+D:\code\visual studio\CSharp_Primary\匿名类型\bin\Debug\匿名类型.exe
+D:\code\visual studio\CSharp_Primary\匿名类型\bin\Debug\匿名类型.pdb
+D:\code\visual studio\CSharp_Primary\匿名类型\obj\Debug\匿名类型.csprojAssemblyReference.cache
+D:\code\visual studio\CSharp_Primary\匿名类型\obj\Debug\匿名类型.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Primary\匿名类型\obj\Debug\匿名类型.exe
+D:\code\visual studio\CSharp_Primary\匿名类型\obj\Debug\匿名类型.pdb

@@ -1,0 +1,7 @@
+D:\code\visual studio\CSharp_Primary\操作列表的属性和方法\bin\Debug\操作列表的属性和方法.exe.config
+D:\code\visual studio\CSharp_Primary\操作列表的属性和方法\bin\Debug\操作列表的属性和方法.exe
+D:\code\visual studio\CSharp_Primary\操作列表的属性和方法\bin\Debug\操作列表的属性和方法.pdb
+D:\code\visual studio\CSharp_Primary\操作列表的属性和方法\obj\Debug\操作列表的属性和方法.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Primary\操作列表的属性和方法\obj\Debug\操作列表的属性和方法.exe
+D:\code\visual studio\CSharp_Primary\操作列表的属性和方法\obj\Debug\操作列表的属性和方法.pdb
+D:\code\visual studio\CSharp_Primary\操作列表的属性和方法\obj\Debug\操作列表的属性和方法.csprojAssemblyReference.cache

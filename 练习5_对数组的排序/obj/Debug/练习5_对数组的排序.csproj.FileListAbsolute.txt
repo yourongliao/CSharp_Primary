@@ -1,0 +1,7 @@
+D:\code\visual studio\CSharp_Primary\练习5_对数组的排序\bin\Debug\练习5_对数组的排序.exe.config
+D:\code\visual studio\CSharp_Primary\练习5_对数组的排序\bin\Debug\练习5_对数组的排序.exe
+D:\code\visual studio\CSharp_Primary\练习5_对数组的排序\bin\Debug\练习5_对数组的排序.pdb
+D:\code\visual studio\CSharp_Primary\练习5_对数组的排序\obj\Debug\练习5_对数组的排序.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Primary\练习5_对数组的排序\obj\Debug\练习5_对数组的排序.exe
+D:\code\visual studio\CSharp_Primary\练习5_对数组的排序\obj\Debug\练习5_对数组的排序.pdb
+D:\code\visual studio\CSharp_Primary\练习5_对数组的排序\obj\Debug\练习5_对数组的排序.csprojAssemblyReference.cache

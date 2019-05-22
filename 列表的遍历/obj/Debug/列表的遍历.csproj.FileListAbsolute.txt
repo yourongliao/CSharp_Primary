@@ -1,0 +1,6 @@
+D:\code\visual studio\CSharp_Primary\列表的遍历\bin\Debug\列表的遍历.exe.config
+D:\code\visual studio\CSharp_Primary\列表的遍历\bin\Debug\列表的遍历.exe
+D:\code\visual studio\CSharp_Primary\列表的遍历\bin\Debug\列表的遍历.pdb
+D:\code\visual studio\CSharp_Primary\列表的遍历\obj\Debug\列表的遍历.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Primary\列表的遍历\obj\Debug\列表的遍历.exe
+D:\code\visual studio\CSharp_Primary\列表的遍历\obj\Debug\列表的遍历.pdb

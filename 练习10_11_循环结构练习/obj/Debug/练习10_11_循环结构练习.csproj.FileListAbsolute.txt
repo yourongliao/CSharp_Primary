@@ -1,0 +1,6 @@
+D:\code\visual studio\CSharp_Primary\练习10_11_循环结构练习\bin\Debug\练习10_11_循环结构练习.exe.config
+D:\code\visual studio\CSharp_Primary\练习10_11_循环结构练习\bin\Debug\练习10_11_循环结构练习.exe
+D:\code\visual studio\CSharp_Primary\练习10_11_循环结构练习\bin\Debug\练习10_11_循环结构练习.pdb
+D:\code\visual studio\CSharp_Primary\练习10_11_循环结构练习\obj\Debug\练习10_11_循环结构练习.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Primary\练习10_11_循环结构练习\obj\Debug\练习10_11_循环结构练习.exe
+D:\code\visual studio\CSharp_Primary\练习10_11_循环结构练习\obj\Debug\练习10_11_循环结构练习.pdb

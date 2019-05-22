@@ -1,0 +1,7 @@
+D:\code\visual studio\CSharp_Primary\练习5和6\bin\Debug\练习5和6.exe.config
+D:\code\visual studio\CSharp_Primary\练习5和6\bin\Debug\练习5和6.exe
+D:\code\visual studio\CSharp_Primary\练习5和6\bin\Debug\练习5和6.pdb
+D:\code\visual studio\CSharp_Primary\练习5和6\obj\Debug\练习5和6.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Primary\练习5和6\obj\Debug\练习5和6.exe
+D:\code\visual studio\CSharp_Primary\练习5和6\obj\Debug\练习5和6.pdb
+D:\code\visual studio\CSharp_Primary\练习5和6\obj\Debug\练习5和6.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\code\visual studio\CSharp_Primary\Main_Player\bin\Debug\Main_Player.exe.config
+D:\code\visual studio\CSharp_Primary\Main_Player\bin\Debug\Main_Player.exe
+D:\code\visual studio\CSharp_Primary\Main_Player\bin\Debug\Main_Player.pdb
+D:\code\visual studio\CSharp_Primary\Main_Player\obj\Debug\Main_Player.csprojAssemblyReference.cache
+D:\code\visual studio\CSharp_Primary\Main_Player\obj\Debug\Main_Player.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Primary\Main_Player\obj\Debug\Main_Player.exe
+D:\code\visual studio\CSharp_Primary\Main_Player\obj\Debug\Main_Player.pdb

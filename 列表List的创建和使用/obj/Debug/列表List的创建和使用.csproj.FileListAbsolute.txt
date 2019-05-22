@@ -1,0 +1,6 @@
+D:\code\visual studio\CSharp_Primary\列表List的创建和使用\bin\Debug\列表List的创建和使用.exe.config
+D:\code\visual studio\CSharp_Primary\列表List的创建和使用\bin\Debug\列表List的创建和使用.exe
+D:\code\visual studio\CSharp_Primary\列表List的创建和使用\bin\Debug\列表List的创建和使用.pdb
+D:\code\visual studio\CSharp_Primary\列表List的创建和使用\obj\Debug\列表List的创建和使用.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Primary\列表List的创建和使用\obj\Debug\列表List的创建和使用.exe
+D:\code\visual studio\CSharp_Primary\列表List的创建和使用\obj\Debug\列表List的创建和使用.pdb

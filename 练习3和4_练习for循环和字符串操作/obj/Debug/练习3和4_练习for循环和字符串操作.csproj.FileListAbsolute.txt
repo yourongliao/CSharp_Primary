@@ -1,0 +1,7 @@
+D:\code\visual studio\CSharp_Primary\练习3和4_练习for循环和字符串操作\bin\Debug\练习3和4_练习for循环和字符串操作.exe.config
+D:\code\visual studio\CSharp_Primary\练习3和4_练习for循环和字符串操作\bin\Debug\练习3和4_练习for循环和字符串操作.exe
+D:\code\visual studio\CSharp_Primary\练习3和4_练习for循环和字符串操作\bin\Debug\练习3和4_练习for循环和字符串操作.pdb
+D:\code\visual studio\CSharp_Primary\练习3和4_练习for循环和字符串操作\obj\Debug\练习3和4_练习for循环和字符串操作.csprojAssemblyReference.cache
+D:\code\visual studio\CSharp_Primary\练习3和4_练习for循环和字符串操作\obj\Debug\练习3和4_练习for循环和字符串操作.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Primary\练习3和4_练习for循环和字符串操作\obj\Debug\练习3和4_练习for循环和字符串操作.exe
+D:\code\visual studio\CSharp_Primary\练习3和4_练习for循环和字符串操作\obj\Debug\练习3和4_练习for循环和字符串操作.pdb

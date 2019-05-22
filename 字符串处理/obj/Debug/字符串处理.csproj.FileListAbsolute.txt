@@ -1,0 +1,6 @@
+D:\code\visual studio\CSharp_Primary\字符串处理\bin\Debug\字符串处理.exe.config
+D:\code\visual studio\CSharp_Primary\字符串处理\bin\Debug\字符串处理.exe
+D:\code\visual studio\CSharp_Primary\字符串处理\bin\Debug\字符串处理.pdb
+D:\code\visual studio\CSharp_Primary\字符串处理\obj\Debug\字符串处理.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Primary\字符串处理\obj\Debug\字符串处理.exe
+D:\code\visual studio\CSharp_Primary\字符串处理\obj\Debug\字符串处理.pdb

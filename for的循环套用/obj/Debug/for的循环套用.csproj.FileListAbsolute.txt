@@ -1,0 +1,6 @@
+D:\code\visual studio\CSharp_Primary\for的循环套用\bin\Debug\for的循环套用.exe.config
+D:\code\visual studio\CSharp_Primary\for的循环套用\bin\Debug\for的循环套用.exe
+D:\code\visual studio\CSharp_Primary\for的循环套用\bin\Debug\for的循环套用.pdb
+D:\code\visual studio\CSharp_Primary\for的循环套用\obj\Debug\for的循环套用.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Primary\for的循环套用\obj\Debug\for的循环套用.exe
+D:\code\visual studio\CSharp_Primary\for的循环套用\obj\Debug\for的循环套用.pdb

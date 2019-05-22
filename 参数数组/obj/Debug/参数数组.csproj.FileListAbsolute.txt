@@ -1,0 +1,7 @@
+D:\code\visual studio\CSharp_Primary\参数数组\bin\Debug\参数数组.exe.config
+D:\code\visual studio\CSharp_Primary\参数数组\bin\Debug\参数数组.exe
+D:\code\visual studio\CSharp_Primary\参数数组\bin\Debug\参数数组.pdb
+D:\code\visual studio\CSharp_Primary\参数数组\obj\Debug\参数数组.csprojAssemblyReference.cache
+D:\code\visual studio\CSharp_Primary\参数数组\obj\Debug\参数数组.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Primary\参数数组\obj\Debug\参数数组.exe
+D:\code\visual studio\CSharp_Primary\参数数组\obj\Debug\参数数组.pdb

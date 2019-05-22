@@ -1,0 +1,6 @@
+D:\code\visual studio\CSharp_Primary\练习一和二\bin\Debug\练习一和二.exe.config
+D:\code\visual studio\CSharp_Primary\练习一和二\bin\Debug\练习一和二.exe
+D:\code\visual studio\CSharp_Primary\练习一和二\bin\Debug\练习一和二.pdb
+D:\code\visual studio\CSharp_Primary\练习一和二\obj\Debug\练习一和二.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Primary\练习一和二\obj\Debug\练习一和二.exe
+D:\code\visual studio\CSharp_Primary\练习一和二\obj\Debug\练习一和二.pdb

@@ -1,0 +1,6 @@
+D:\code\visual studio\CSharp_Primary\泛型方法\bin\Debug\泛型方法.exe.config
+D:\code\visual studio\CSharp_Primary\泛型方法\bin\Debug\泛型方法.exe
+D:\code\visual studio\CSharp_Primary\泛型方法\bin\Debug\泛型方法.pdb
+D:\code\visual studio\CSharp_Primary\泛型方法\obj\Debug\泛型方法.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Primary\泛型方法\obj\Debug\泛型方法.exe
+D:\code\visual studio\CSharp_Primary\泛型方法\obj\Debug\泛型方法.pdb

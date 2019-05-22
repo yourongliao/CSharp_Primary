@@ -1,0 +1,6 @@
+D:\code\visual studio\CSharp_Primary\style\bin\Debug\style.exe.config
+D:\code\visual studio\CSharp_Primary\style\bin\Debug\style.exe
+D:\code\visual studio\CSharp_Primary\style\bin\Debug\style.pdb
+D:\code\visual studio\CSharp_Primary\style\obj\Debug\style.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Primary\style\obj\Debug\style.exe
+D:\code\visual studio\CSharp_Primary\style\obj\Debug\style.pdb

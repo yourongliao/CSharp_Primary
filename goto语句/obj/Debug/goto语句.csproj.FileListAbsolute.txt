@@ -1,0 +1,6 @@
+D:\code\visual studio\CSharp_Primary\goto语句\bin\Debug\goto语句.exe.config
+D:\code\visual studio\CSharp_Primary\goto语句\bin\Debug\goto语句.exe
+D:\code\visual studio\CSharp_Primary\goto语句\bin\Debug\goto语句.pdb
+D:\code\visual studio\CSharp_Primary\goto语句\obj\Debug\goto语句.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Primary\goto语句\obj\Debug\goto语句.exe
+D:\code\visual studio\CSharp_Primary\goto语句\obj\Debug\goto语句.pdb

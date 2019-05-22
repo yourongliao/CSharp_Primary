@@ -1,0 +1,7 @@
+D:\code\visual studio\CSharp_Primary\错误处理_异常处理\bin\Debug\错误处理_异常处理.exe.config
+D:\code\visual studio\CSharp_Primary\错误处理_异常处理\bin\Debug\错误处理_异常处理.exe
+D:\code\visual studio\CSharp_Primary\错误处理_异常处理\bin\Debug\错误处理_异常处理.pdb
+D:\code\visual studio\CSharp_Primary\错误处理_异常处理\obj\Debug\错误处理_异常处理.csprojAssemblyReference.cache
+D:\code\visual studio\CSharp_Primary\错误处理_异常处理\obj\Debug\错误处理_异常处理.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Primary\错误处理_异常处理\obj\Debug\错误处理_异常处理.exe
+D:\code\visual studio\CSharp_Primary\错误处理_异常处理\obj\Debug\错误处理_异常处理.pdb

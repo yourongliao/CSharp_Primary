@@ -1,0 +1,6 @@
+D:\code\visual studio\CSharp_Primary\梯形面积\bin\Debug\梯形面积.exe.config
+D:\code\visual studio\CSharp_Primary\梯形面积\bin\Debug\梯形面积.exe
+D:\code\visual studio\CSharp_Primary\梯形面积\bin\Debug\梯形面积.pdb
+D:\code\visual studio\CSharp_Primary\梯形面积\obj\Debug\梯形面积.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Primary\梯形面积\obj\Debug\梯形面积.exe
+D:\code\visual studio\CSharp_Primary\梯形面积\obj\Debug\梯形面积.pdb

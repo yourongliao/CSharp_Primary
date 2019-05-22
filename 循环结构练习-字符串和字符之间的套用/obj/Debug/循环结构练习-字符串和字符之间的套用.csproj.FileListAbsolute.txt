@@ -1,0 +1,6 @@
+D:\code\visual studio\CSharp_Primary\循环结构练习-字符串和字符之间的套用\bin\Debug\循环结构练习-字符串和字符之间的套用.exe.config
+D:\code\visual studio\CSharp_Primary\循环结构练习-字符串和字符之间的套用\bin\Debug\循环结构练习-字符串和字符之间的套用.exe
+D:\code\visual studio\CSharp_Primary\循环结构练习-字符串和字符之间的套用\bin\Debug\循环结构练习-字符串和字符之间的套用.pdb
+D:\code\visual studio\CSharp_Primary\循环结构练习-字符串和字符之间的套用\obj\Debug\循环结构练习-字符串和字符之间的套用.csproj.CoreCompileInputs.cache
+D:\code\visual studio\CSharp_Primary\循环结构练习-字符串和字符之间的套用\obj\Debug\循环结构练习-字符串和字符之间的套用.exe
+D:\code\visual studio\CSharp_Primary\循环结构练习-字符串和字符之间的套用\obj\Debug\循环结构练习-字符串和字符之间的套用.pdb
